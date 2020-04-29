@@ -4,9 +4,10 @@ Group 1 capstone project for NE ALY 6140
 ## Dataset Selected
 ## LA Metro Bike Share
 #### Link to Data: https://bikeshare.metro.net/about/data/
+##### https://data.lacity.org/api/views/sii9-rjps/rows.csv?accessType=DOWNLOAD
 
 ## Problem statement & Data Stories
-#### 1.
+#### 1. 
 #### 2.
 #### 3.
 #### 4.
