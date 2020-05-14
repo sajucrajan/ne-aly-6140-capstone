@@ -1,10 +1,3 @@
-"""
-LA Metro Bike Share Trip Data - Capstone Project
-Copyright (c) 2020
-Licensed
-Written by THE GROUP 1
-"""
-
 import pandas as pd
 import math
 from sklearn.model_selection import train_test_split
